@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test!</string>
+    <string name="simpledo"><b>Simpledo</b></string>
+    <string name="next">Next</string>
+    <string name="sign_up"><b>Sign Up</b></string>
+    <string name="name"><b>Name</b></string>
+    <string name="enter_full_name"><b>Enter Full Name</b></string>
+    <string name="date_of_birth"><b>Date Of Birth</b></string>
+    <string name="get_started">Get Started</string>
+</resources>
