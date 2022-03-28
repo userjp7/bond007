@@ -7,4 +7,6 @@
     <string name="enter_full_name"><b>Enter Full Name</b></string>
     <string name="date_of_birth"><b>Date Of Birth</b></string>
     <string name="get_started">Get Started</string>
+    <string name="today"><b>Today</b></string>
+    <string name="on_going"><b>On Going</b></string>
 </resources>
