@@ -9,4 +9,23 @@
     <string name="get_started">Get Started</string>
     <string name="today"><b>Today</b></string>
     <string name="on_going"><b>On Going</b></string>
+    <string name="completed"><b>Completed</b></string>
+    <string name="add">TODO</string>
+    <string name="todo"><b>Todo</b></string>
+    <string name="title"><font size="25"><b>Title</b></font></string>
+    <string name="description"><font size="25"><b>Description</b></font></string>
+    <string name="Save">save</string>
+    <string name="add_reminder"><b>Add Reminder</b></string>
+    <string name="jan_01_2022">JAN 01 2022</string>
+    <string name="select_time">Select Time</string>
+    <string-array name="spinner1">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>
